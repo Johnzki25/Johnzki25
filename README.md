@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Johnzki25 and you can just call me John and I'm 31 years old and from Spain but I'm Asian I'm interested in meeting new people that is interested in learning aswell as me about programming
-- 👀 I’m interested in becoming a full-stack developer 
-- 🌱 I’m currently learning html css javascript
-- 💞️ I’m looking to collaborate on some projects to challenge myself to become a good developer
+- 👋 Hi, I’m @Jion and you can call me John I'm 31 years old and from Spain but I'm Asian I'm interested in meeting new people that are interested in learning as well as me about programming
+- 👀 I'm a 3D artist, Programmer, and fitness enthusiast, a hyper-fixated guy
+- 🌱 I’m currently learning html css javascript and csharp for unity because
 - 📫 How to reach me = You can reach me at my discord so we can chat ID = Johnzki#1706
 
 <!---
