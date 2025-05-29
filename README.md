@@ -8,7 +8,7 @@
 
 ### 💬 About Me
 
-- 🎌 I'm **John**, Asian born and raised in **Spain**
+- 🎌 I'm **John**, Asian born PH and raised in **Spain**
 - 🎨 3D Artist, 👨‍💻 Aspiring Programmer, and 💪 Gym Addict
 - 🔥 Hyper-fixated on **growth, code & aesthetics**
 - 🌱 Learning: `HTML5`, `CSS3`, `JavaScript`, `React.js`, `TailwindCSS`, `Framer Motion`, `Python`
