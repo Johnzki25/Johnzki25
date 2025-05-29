@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jion 👨‍💻 aka John</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Time+Learner;3D+Artist+%2B+Programmer+%2B+Gym+Addict;Currently+Learning:+React%2C+Tailwind%2C+Python;Hyper-Fixated+%F0%9F%94%A5;Always+Improving...+Always+Hungry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Time+Learner;3D+Artist+%2B+Programmer+%2B+Gym+Addict;Hyper-Fixated+%F0%9F%94%A5;Always+Improving...+Always+Hungry" alt="Typing SVG" />
 </p>
 
 ---
