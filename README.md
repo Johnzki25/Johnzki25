@@ -18,6 +18,7 @@
 - 🌱 Learning: `HTML5`, `CSS3`, `JavaScript`, `React.js`, `TailwindCSS`, `Framer Motion`, `Python`
 - 🤝 I love connecting with **curious minds** learning to build
 - 💬 DM me on Discord: `Johnzki#1706`
+- This is my own website: `johndenrickdev.netlify.app`
 
 ---
 
