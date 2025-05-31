@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=30&pause=1000&color=18F7B9FF&center=true&vCenter=true&width=500&lines=Full-Time+Learner;3D+Artist+%2B+Programmer+%2B+Gym+Addict;Hyper-Fixated+%F0%9F%94%A5;Always+Improving...+Always+Hungry" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="[https://miurl.com/foto.jpg](https://johndenrickdev.netlify.app/assets/johndenrick-oej8krzH.webp)" width="150" style="border-radius: 50%;" />
+</div>
+
 ---
 
 ### 💬 About Me
