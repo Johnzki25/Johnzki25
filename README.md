@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://johndenrickdev.netlify.app/assets/johndenrick-oej8krzH.webp" width="150" height="150" style="border-radius: 50%" />
+  <img src="https://johndenrickdev.netlify.app/assets/johndenrick-oej8krzH.webp" width="150" style="border-radius: 50%;" />
 </p>
 
 ---
